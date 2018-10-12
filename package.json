@@ -32,7 +32,7 @@
     "test": "NODE_PATH=. mocha \"test/**/*.test.js\""
   },
   "peerDependencies": {
-    "webpack": "^1.12.14"
+    "webpack": "^2.3.0"
   },
   "devDependencies": {
     "chai": "^3.4.1",
